@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536265916674",
+    "firebase_url": "https://roadsuntaken-9ec53.firebaseio.com",
+    "project_id": "roadsuntaken-9ec53",
+    "storage_bucket": "roadsuntaken-9ec53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536265916674:android:d4925b7fe6f7a571",
+        "android_client_info": {
+          "package_name": "example.android.com.roadsuntaken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536265916674-e7prv802lcoplqi8lcplsedqf8akc23j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.android.com.roadsuntaken",
+            "certificate_hash": "dac108e41c60b168346b3df93cd6b02ec3a69207"
+          }
+        },
+        {
+          "client_id": "536265916674-tmc6fo47l889cn420mos23ttp0uu75ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmC7X5cjDIU4z9n5l2f86t48-Ad9ug5ek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536265916674-tmc6fo47l889cn420mos23ttp0uu75ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
