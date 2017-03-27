@@ -9,6 +9,18 @@ Find your next destination recommended to you by like-minded people.
 
 NOTE: The Firebase API has been redacted for obvious reasons from the repository. To build and run the app, an appropriate key needs to be added in place.
 
+
+Download
+------------------------------------------------
+Apk link - https://goo.gl/Z6ZETs
+
+
+Team Members
+------------------------------------------------
+1. Shivam Garg
+2. Ayaskant Panigrahi
+3. Amish Kumar Naidu
+
 Features
 ------------------------------------------------
 
