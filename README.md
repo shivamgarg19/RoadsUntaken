@@ -1,6 +1,10 @@
 Roads Untaken
 ======================
 
+Roads Untaken is Android app made for 24 hours Think-O-Hack Hackathon at IIITDM Jabalpur.
+
+This was the runner up entry.
+
 Roads Untaken allows explorers to find and share less-known places around the world!
 Found an interesting place while travelling which you'd want to share ?
 Pull out your phone and post it!
@@ -32,3 +36,6 @@ Features
 * Comment and discuss with other explorers
 * Explore new places!
 
+Contact
+-----------------------------
+gargshivam1040@gmail.com
